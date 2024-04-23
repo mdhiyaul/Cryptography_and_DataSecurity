@@ -1,0 +1,11 @@
+10 Words Sentence
+"Quick brown fox jumps over the lazy dog near river."
+
+20 Words Sentence
+"Despite the rain, the quick brown fox jumps over the lazy dog while everyone watches in amazement and surprise."
+
+30 Words Sentence
+"In the heart of the dark forest, the quick brown fox jumps over the lazy dog, evading the hunters and disappearing into the shadows as the moon shines brightly."
+
+40 Words Sentence
+"Under the shimmering moonlight, across the vast and whispering fields of golden wheat, the quick brown fox elegantly jumps over the lazy dog, its silhouette a fleeting ghost against the backdrop of the ancient and mystic forest that guards secrets untold."
